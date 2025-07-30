@@ -2,7 +2,7 @@
 
 A Jupyter Notebook–based project exploring machine learning techniques to forecast optimal pricing using historical dynamic pricing data.
 
-## 🚀 Project Overview
+## Project Overview
 
 This repository contains:
 
@@ -13,7 +13,7 @@ This project investigates predictive models to forecast dynamic prices, support 
 
 ---
 
-## 📊 Data
+## Data
 
 - **Source**: `dynamic_pricing.csv`  
 - Likely includes: historical price entries, demand indicators, time or product features  
@@ -21,7 +21,7 @@ This project investigates predictive models to forecast dynamic prices, support 
 
 ---
 
-## 🔍 main.ipynb Workflow
+## main.ipynb Workflow
 
 The notebook is structured to:
 
@@ -33,7 +33,7 @@ The notebook is structured to:
 
 ---
 
-## 🧠 Technical Stack
+## Technical Stack
 
 - **Language**: Python (via Jupyter notebook)  
 - **Libraries**: pandas, NumPy, scikit-learn, Matplotlib/Seaborn, possibly XGBoost or LightGBM  
@@ -41,7 +41,7 @@ The notebook is structured to:
 
 ---
 
-## 📋 Usage
+## Usage
 
 1. **Clone the repository**  
    ```bash
